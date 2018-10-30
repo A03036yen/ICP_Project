@@ -14,6 +14,5 @@ Basic functions like
 will be included.
 
 And
-log-in name:  admin
-log-in password:  123
+log-in name:  admin   password:  123
 
