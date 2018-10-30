@@ -1,6 +1,6 @@
 # ICP_Project
 
-This is a liberary management system, which is constructed by C language, which is for administrater to mange the library.
+This is a library management system, which is constructed by C language, which is for administrater to mange the library.
 Basic functions like
 
 1. Add New Book Record(s)
